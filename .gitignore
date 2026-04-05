@@ -1,0 +1,7 @@
+kaggle.json
+data/
+.venv/
+__pycache__/
+*.pyc
+big_demonstracao_trabalho_tipo.ipynb
+test.ipynb
