@@ -60,8 +60,6 @@ Accuracy (primary). The target is **95%** for this problem.
 | model_stg3_effnet_sft_v2 | EfficientNetB0 transfer | 3 — DS2 | Count (7 buckets) | + L2 reg, dropout, class weights, augmentation | 52.67% | 50.77% | 0.54 |
 | model_stg4_effnet_binary_aug | EfficientNetB0 transfer | 4 — DS2 | Turbine detection | EfficientNetB0 frozen + Augmentation | 87.61% | 82.79% | — |
 
-*Severe overfitting — training accuracy ~99%, val loss diverging
-
 ---
 
 ## Future Work
